@@ -1,0 +1,9 @@
+Specyfikacja projektu
+
+Gra kółko-krzyżyk w języku C z interfejsem graficznym (GTK), dla dwóch graczy, plansza 3x3.
+
+Wymagania funkcjonalne
+	•	Okno aplikacji z planszą 3x3 (GUI).
+	•	Dwóch graczy, naprzemienne ruchy (X, O).
+	•	Blokada zajętych pól.
+	•	Weryfikacja zwycięstwa/remisu po każdym ruchu.
