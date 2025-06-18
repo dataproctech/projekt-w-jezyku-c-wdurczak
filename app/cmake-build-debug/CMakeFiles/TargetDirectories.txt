@@ -1,0 +1,3 @@
+/Users/wojciechdurczak/CLionProjects/niskopoziomowe-tictactoe0/cmake-build-debug/CMakeFiles/tictactoe3.dir
+/Users/wojciechdurczak/CLionProjects/niskopoziomowe-tictactoe0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wojciechdurczak/CLionProjects/niskopoziomowe-tictactoe0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
